@@ -33,7 +33,7 @@ ibov-selic-btg/
 ├── requirements.txt # Dependências
 └── README.md
 
---
+---
 
 ## 🚀 Como Rodar
 
