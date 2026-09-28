@@ -1,6 +1,6 @@
-# 📊 Análise IBOV vs SELIC vs Bitcoin
+# 📊 Análise IBOV vs SELIC vs BTG
 
-Análise comparativa de três indicadores financeiros brasileiros: Índice Bovespa (IBOV), Taxa SELIC e Bitcoin (BTC).
+Análise comparativa de três indicadores financeiros brasileiros: Índice Bovespa (IBOV), Taxa SELIC e BTG Pactual (BTG).
 
 ## 📈 Sobre o Projeto
 
@@ -63,7 +63,7 @@ jupyter notebook exploratory.ipynb
 
 ## 📊 Principais Análises
 
-- ✅ Correlação entre IBOV, SELIC e BTC
+- ✅ Correlação entre IBOV, SELIC e BTG
 - ✅ Série histórica e evolução temporal
 - ✅ Estatísticas descritivas
 - ✅ Visualizações comparativas
