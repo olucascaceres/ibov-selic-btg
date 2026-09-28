@@ -12,7 +12,7 @@ Este projeto explora a **correlação e evolução** desses três ativos ao long
 
 ## 🛠️ Tecnologias
 
-- **Python 3.x**
+- **Python 3.12**
 - **Pandas** - Manipulação de dados
 - **NumPy** - Cálculos numéricos
 - **Matplotlib & Seaborn** - Visualizações
